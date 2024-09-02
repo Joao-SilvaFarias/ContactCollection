@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15958281856",
+    "project_id": "contactcollection",
+    "storage_bucket": "contactcollection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15958281856:android:83835658f9cb99482a6065",
+        "android_client_info": {
+          "package_name": "com.example.contactcollection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApD7C-NDGQncwa1NFTgQFIOKW9mnWeWBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
